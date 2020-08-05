@@ -4,7 +4,7 @@ import { render } from 'react-dom';
 const App = () => {
     return (
         <div>
-            Helloasdfasdfasdfasdfasdfasdfadfasdfasdfasdf
+            Starter-react-using-webpack
         </div>
     )
 }
