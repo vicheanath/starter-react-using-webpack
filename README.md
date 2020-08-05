@@ -2,7 +2,7 @@
 
 This repo kill  **create-react-app** 
 
-sarter file ot write react app without using `create-react-app`
+sarter file to write react app without using `npx create-react-app`
 # How to use
  `git clone https://github.com/vicheanath/starter-react-using-webpack.git`
  
