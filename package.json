@@ -7,8 +7,14 @@
     "start": "webpack-dev-server --mode=development --open --hot",
     "build": "webpack --mode=production"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "reactjs",
+    "creat-react-app",
+    "react-webpack",
+    "react-without-create-react-app",
+    "webpack-babel"
+  ],
+  "author": "Vichea Nath",
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1",
